@@ -1,0 +1,28 @@
+Outcome Category
+Under investigation                                    137786
+Investigation complete; no suspect identified          103804
+Status update unavailable                               41088
+Awaiting court outcome                                   5894
+Local resolution                                         4244
+Court result unavailable                                 2411
+Offender given a caution                                 2396
+Offender given a drugs possession warning                2171
+Offender given penalty notice                            1290
+Offender sent to prison                                   619
+Offender fined                                            600
+Offender given community sentence                         555
+Defendant found not guilty                                468
+Offender given conditional discharge                      278
+Court case unable to proceed                              262
+Offender given suspended prison sentence                  241
+Unable to prosecute suspect                                60
+Offender otherwise dealt with                              57
+Offender ordered to pay compensation                       56
+Offender deprived of property                              32
+Defendant sent to Crown Court                              26
+Suspect charged as part of another case                    13
+Offender given absolute discharge                           8
+Further investigation is not in the public interest         7
+Action to be taken by another organisation                  5
+Formal action is not in the public interest                 4
+Name: count, dtype: int64

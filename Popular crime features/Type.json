@@ -1,0 +1,16 @@
+Category
+Anti-social behaviour           90885
+Violence and sexual offences    62841
+Other theft                     59957
+Theft from the person           42030
+Vehicle crime                   26550
+Burglary                        22595
+Public order                    19394
+Shoplifting                     15945
+Criminal damage and arson       14872
+Drugs                           13007
+Robbery                         12116
+Bicycle theft                   10806
+Other crime                      2361
+Possession of weapons            1901
+Name: count, dtype: int64

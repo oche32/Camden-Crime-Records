@@ -1,0 +1,52 @@
+Street Name
+On or near Supermarket                            12999
+On or near Nightclub                              11806
+On or near Theatre/concert Hall                    9795
+On or near                                         9364
+On or near Parking Area                            8684
+On or near Shopping Area                           6666
+On or near Further/higher Educational Building     6582
+St Pancras International (station)                 5023
+On or near Pedestrian Subway                       4781
+On or near Camden High Street                      3892
+On or near Petrol Station                          3740
+On or near Hospital                                3641
+Kings Cross (station)                              3415
+On or near Conference/exhibition Centre            2967
+Euston (station)                                   2515
+Euston (lu Station)                                2062
+On or near Gray's Inn Road                         2048
+On or near Judd Street                             1707
+On or near St Chad's Street                        1684
+On or near Great Russell Street                    1620
+On or near Police Station                          1610
+On or near Russell Square                          1483
+On or near Granary Street                          1480
+On or near New Oxford Street                       1432
+On or near Goodge Street                           1430
+On or near Percy Street                            1418
+On or near Crestfield Street                       1409
+On or near West End Lane                           1401
+On or near Adelaide Road                           1309
+On or near Kingsgate Place                         1302
+On or near Goods Way                               1267
+On or near Tottenham Court Road                    1227
+On or near Mabledon Place                          1224
+On or near Euston Road                             1151
+Holborn (lu Station)                               1142
+On or near Inverness Street                        1136
+On or near Whitfield Place                         1132
+On or near Parker Mews                             1119
+On or near Raydon Street                           1113
+On or near Parkway                                 1097
+On or near Finchley Road                           1065
+On or near Jamestown Road                          1059
+On or near Bayham Street                           1055
+On or near Gate Street                             1047
+On or near Rowley Way                              1024
+On or near Harrington Square                       1007
+On or near Shaftesbury Avenue                       988
+On or near Belgrove Street                          984
+On or near King's Cross Road                        979
+On or near Marsden Street                           968
+Name: count, dtype: int64
